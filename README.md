@@ -2,18 +2,9 @@
 
 <!--
 **Bhanukumartiwari/BhanuKumartiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><!-- Profile README for Bhanu Kumar Tiwari -->
+<!-- Profile README for Bhanu Kumar Tiwari -->
 
 <h1 align="center">Hi, I'm Bhanu Kumar Tiwari 👋</h1>
 <p align="center">
@@ -37,15 +28,21 @@ Hi, I’m Bhanu Kumar Tiwari. I’m passionate about turning raw data into clear
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🔹 Superstore Sales Dashboard  
+### 🔹 Loyalty Points & ₹50,000 Bonus Allocation Dashboard 💰  
+A Power BI solution built for an online gaming platform:
+- Calculates loyalty points based on deposits, withdrawals, and games played
+- Uses DAX to allocate a ₹50,000 monthly bonus among top 50 players
+- Features date & slot-wise filters, player ranks, KPIs, and bonus breakdown  
+🔗 [View Project Repository](https://github.com/Bhanukumartiwari/loyalty-points-powerbi)
+
+### 🔹 Superstore Sales Dashboard 📊  
 An interactive Power BI dashboard analyzing 4 years of sales data. Highlights include:
-- Top categories & regional sales trends
+- Regional and segment-wise sales breakdown
 - Profitability analysis using Excel + DAX + Power Query
-- Clean, insightful visualizations
-
-> _More projects coming soon..._
+- Clean and interactive slicers and KPIs  
+🔗 [View Project Repository](https://github.com/Bhanukumartiwari/superstore-sales-dashboard)
 
 ---
 
@@ -68,3 +65,4 @@ An interactive Power BI dashboard analyzing 4 years of sales data. Highlights in
 <p align="center">
   <i>Let's connect and collaborate on data-driven projects!</i>
 </p>
+
