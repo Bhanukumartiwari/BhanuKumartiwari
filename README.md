@@ -50,7 +50,7 @@ An Excel-based dashboard designed to analyze sales performance across products, 
 - Highlights top-performing sales reps, top-selling products, and customer type share  
 - Includes region-based analysis, monthly revenue trends, and product revenue contribution  
 
-🔗 [View Project Repository](https://github.com/Bhanukumartiwari/sales-revenue-dashboard)
+🔗 [View Project Repository](https://github.com/Bhanukumartiwari/Sales-Revenue-Dashboard-)
 
 
 ---
