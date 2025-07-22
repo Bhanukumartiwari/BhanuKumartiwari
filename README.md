@@ -44,6 +44,15 @@ An interactive Power BI dashboard analyzing 4 years of sales data. Highlights in
 - Clean and interactive slicers and KPIs  
 🔗 [View Project Repository](https://github.com/Bhanukumartiwari/superstore-sales-dashboard)
 
+### 🔹 Sales Revenue Performance Dashboard 📈  
+An Excel-based dashboard designed to analyze sales performance across products, reps, and regions:
+- Visualizes KPIs such as total revenue, sales conversions, and rep-wise productivity  
+- Highlights top-performing sales reps, top-selling products, and customer type share  
+- Includes region-based analysis, monthly revenue trends, and product revenue contribution  
+
+🔗 [View Project Repository](https://github.com/Bhanukumartiwari/sales-revenue-dashboard)
+
+
 ---
 
 ## 🔗 Connect with Me
